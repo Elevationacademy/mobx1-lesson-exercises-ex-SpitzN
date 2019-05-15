@@ -27,6 +27,7 @@ class App extends Component {
       </div>
     );
   }
+  // comment
 }
 
 export default App;
